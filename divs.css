@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #039;
+}
+#container {
+	background-color: #999;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#cabecalho {
+	background-color: #FFF;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	width: auto;
+}

@@ -6,7 +6,7 @@
 <link href="divs.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<div id="cabecalho"><h1>Rede Social</div>
+<div id="cabecalho"><h1>Rede Social</h1></div>
 <div id="container">Content for  id "container" Goes Here</div>
 </body>
 </html>

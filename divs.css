@@ -2,19 +2,23 @@
 /* CSS Document */
 
 body {
-	background-color: #039;
+	background-color: #E9EAED;
+	background-image: url(imagens/fundo.png);
+	background-repeat: repeat-x;
 }
 #container {
 	background-color: #999;
-	width: 1000px;
+	width: 900px;
 	margin-right: auto;
 	margin-left: auto;
 }
 #cabecalho {
-	background-color: #FFF;
-	height: 100px;
+	height: 78px;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 0px;
 	width: auto;
+	margin-top: auto;
+	color: #FFF;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
 }

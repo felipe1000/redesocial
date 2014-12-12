@@ -6,12 +6,7 @@ body {
 	background-image: url(imagens/fundo.png);
 	background-repeat: repeat-x;
 }
-#container {
-	background-color: #999;
-	width: 900px;
-	margin-right: auto;
-	margin-left: auto;
-}
+
 #cabecalho {
 	height: 78px;
 	margin-right: auto;
@@ -21,4 +16,20 @@ body {
 	color: #FFF;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 18px;
+	float: left;
+}
+#entre {
+	font-size: 14px;
+	color: #FFF;
+	height: 78px;
+	font-family: Tahoma, Geneva, sans-serif;
+	width: 450px;
+	float: right;
+}
+
+#container {
+	background-color: #999;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
 }

@@ -7,6 +7,6 @@
 </head>
 <body>
 <div id="cabecalho"><h1>Rede Social</h1></div>
-<div id="container">Content for  id "container" Goes Here</div>
+<div id="entre"><?php include "entre.html"?></div>
 </body>
-</html>
+</html> 
